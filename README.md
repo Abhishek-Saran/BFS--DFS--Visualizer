@@ -5,7 +5,7 @@ A simple Python-based visualizer for BFS (Breadth-First Search) and DFS (Depth-F
 ## Screenshots
 
 ### Terminal Interface
-![Terminal UI](screenshots/terminal%20ui.png)
+![Terminal UI](screenshots/terminal%20ui-01.png)
 
 ### Graph Visualization
 ![Graph Visualizer](screenshots/graph_visualiser.png)
